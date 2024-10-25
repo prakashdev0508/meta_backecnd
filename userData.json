@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Prakash",
+    "email": "prakash.pandey@your-space.in",
+    "connected": false,
+    "team": "IT",
+    "organisationId": 2
+  },
+  {
+    "name": "Anjali",
+    "email": "anjali.sharma@your-space.in",
+    "connected": false,
+    "team": "HR",
+    "organisationId": 2
+  },
+  {
+    "name": "Rahul",
+    "email": "rahul.kumar@your-space.in",
+    "connected": false,
+    "team": "Finance",
+    "organisationId": 1
+  },
+  {
+    "name": "Neha",
+    "email": "neha.verma@your-space.in",
+    "connected": false,
+    "team": "Marketing",
+    "organisationId": 1
+  },
+  { 
+    "name": "Suresh",
+    "email": "suresh.nair@your-space.in",
+    "connected": false,
+    "team": "IT",
+    "organisationId": 2
+  },
+  {
+    "name": "Ritika",
+    "email": "ritika.gupta@your-space.in",
+    "connected": false,
+    "team": "Operations",
+    "organisationId": 3
+  },
+  {
+    "name": "Amit",
+    "email": "amit.singh@your-space.in",
+    "connected": false,
+    "team": "Legal",
+    "organisationId": 3
+  },
+  {
+    "name": "Priya",
+    "email": "priya.jain@your-space.in",
+    "connected": false,
+    "team": "IT",
+    "organisationId": 2
+  },
+  {
+    "name": "Vikram",
+    "email": "vikram.mehra@your-space.in",
+    "connected": false,
+    "team": "HR",
+    "organisationId": 2
+  },
+  {
+    "name": "Nisha",
+    "email": "nisha.malhotra@your-space.in",
+    "connected": false,
+    "team": "Finance",
+    "organisationId": 1
+  }
+]
